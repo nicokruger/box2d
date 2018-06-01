@@ -1,13 +1,70 @@
 {
-  "name": "box2d",
-  "version": "2.3.3",
-  "description": "",
+  "_args": [
+    [
+      {
+        "raw": "git+https://github.com/nicokruger/box2d.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/nicokruger/box2d.git",
+        "spec": "git+https://github.com/nicokruger/box2d.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:nicokruger/box2d.git",
+          "sshUrl": "git+ssh://git@github.com/nicokruger/box2d.git",
+          "httpsUrl": "git+https://github.com/nicokruger/box2d.git",
+          "gitUrl": "git://github.com/nicokruger/box2d.git",
+          "shortcut": "github:nicokruger/box2d",
+          "directUrl": "https://raw.githubusercontent.com/nicokruger/box2d/master/package.json"
+        }
+      },
+      "/Users/nicok/frootnip/playboxcade"
+    ]
+  ],
+  "_from": "git+https://github.com/nicokruger/box2d.git",
+  "_id": "box2d@2.3.2",
+  "_inCache": true,
+  "_location": "/box2d",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git+https://github.com/nicokruger/box2d.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+https://github.com/nicokruger/box2d.git",
+    "spec": "git+https://github.com/nicokruger/box2d.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:nicokruger/box2d.git",
+      "sshUrl": "git+ssh://git@github.com/nicokruger/box2d.git",
+      "httpsUrl": "git+https://github.com/nicokruger/box2d.git",
+      "gitUrl": "git://github.com/nicokruger/box2d.git",
+      "shortcut": "github:nicokruger/box2d",
+      "directUrl": "https://raw.githubusercontent.com/nicokruger/box2d/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/nicokruger/box2d.git#9ee28047dd7f81c8fb09fe3a54ee68d89a56f022",
+  "_shasum": "4d2a0aed6fede6756e0c59a6300df1a11af6cfb7",
+  "_shrinkwrap": null,
+  "_spec": "git+https://github.com/nicokruger/box2d.git",
+  "_where": "/Users/nicok/frootnip/playboxcade",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "gitHead": "9ee28047dd7f81c8fb09fe3a54ee68d89a56f022",
+  "license": "ISC",
   "main": "Box2D_v2.3.1_min.js",
+  "name": "box2d",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-  }
+  "version": "2.3.2"
 }
